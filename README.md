@@ -6,6 +6,6 @@ Feel free to follow below steps if you are first timer like myself.
 ## Installation
 1. Install Node https://nodejs.org/en
 2. Install React project from following command
-   a. `npx create-react-app <project-name>`
-   b. start server `npm start`
+   - `npx create-react-app <project-name>`
+   - start server `npm start`
    
